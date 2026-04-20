@@ -1,25 +1,8 @@
-# Anois National Zoo Website 🦁
+# Anois National Zoo Website
 
 Welcome to the official repository for the **Anois National Zoo**! This is a dynamic web application built using Flask, enabling users to explore animal exhibits, leave reviews, make donations, book tickets, and much more.
 
-
-## 📂 Project Structure
-
-```plaintext
-.
-├── static/               # Static files such as CSS, images, and JavaScript
-├── templates/            # HTML templates used for rendering dynamic content
-├── __pycache__/          # Python cache files (auto-generated)
-├── app.db                # SQLite database file
-├── app.py                # Main Flask application
-├── database.py           # Database connection and utility functions
-├── forms.py              # Flask-WTF forms for user interaction
-├── freeze.py             # Utility script for creating a static version of the site
-├── schema.sql            # SQL schema for initializing the database
-
-````
-
-## 🚀 Features
+## Features
 
 - **User Authentication**:
   - Secure registration and login system.
